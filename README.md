@@ -5,7 +5,7 @@ I'm Addison Teschan, computer science with a passion for exploring cutting-edge 
 ## Interests
 
 - 💻 I love working with low level programming languages like rust 🦀 to build innovative software.
-- 🌐 Web development and UI/UX design is more of a hobby, but a nessesary part of building my own applications.
+- 🌐 I am currently learning Web development and UI/UX design.
 
 
 Feel free to explore my repositories.
