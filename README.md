@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Addison Teschan, computer science with a passion for exploring cutting-edge technologies.
+I'm Addison Teschan, a computer science student with a passion for exploring cutting-edge technologies.
 
 ## Interests
 
