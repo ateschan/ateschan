@@ -5,7 +5,7 @@ I'm Addison Teschan, a computer science student with a passion for exploring cut
 ## Interests
 
 - 💻 I love working with low level programming languages like rust 🦀 to build innovative software.
-- 🌐 I am currently learning Web development and UI/UX design.
+- 🌐 I am currently working with Web development and UI/UX design.
 
 
 Feel free to explore my repositories.
