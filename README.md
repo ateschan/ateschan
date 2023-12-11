@@ -9,3 +9,5 @@ I'm Addison Teschan, a computer science student with a passion for exploring cut
 
 
 Feel free to explore my repositories.
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
